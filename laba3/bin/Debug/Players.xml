@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<Smadstat>
+  <Table1>
+    <name>one</name>
+    <step>2</step>
+    <Time>PT2S</Time>
+  </Table1>
+  <Table1>
+    <name>Игрок1</name>
+    <step>2</step>
+    <Time>PT20S</Time>
+  </Table1>
+  <Table1>
+    <name>sm</name>
+    <step>12</step>
+    <Time>PT8S</Time>
+  </Table1>
+  <Table1>
+    <name>SmadKUn</name>
+    <step>404</step>
+    <Time>PT4M8S</Time>
+  </Table1>
+  <Table1>
+    <name>Олег</name>
+    <step>218</step>
+    <Time>PT1M37S</Time>
+  </Table1>
+  <Table1>
+    <name>фыва</name>
+    <step>256</step>
+    <Time>PT2M24S</Time>
+  </Table1>
+</Smadstat>
